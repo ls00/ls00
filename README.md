@@ -1,35 +1,39 @@
 # Lukas Rocha
 
-`analista e desenvolvedor de sistemas`
+### Desenvolvedor Full Stack
 
-Atuação em TI com foco em automação, análise de dados, desenvolvimento de sistemas e resolução de problemas, aplicando soluções práticas para otimizar processos e aumentar a eficiência operacional.
+Desenvolvimento full stack com especialidade em back end, incluindo criação de APIs e sistemas que conectam aplicações, serviços e bancos de dados, desenvolvimento de interfaces web e integração entre componentes.
 
-Experiência com organização de sistemas digitais, manutenção de software e hardware e suporte técnico. 
+Utilização de Java, Spring Boot, Node.js e SQL na implementação de serviços, e Angular, React, Next.js e TypeScript na construção de interfaces.
 
-Conhecimento avançado e prático em SQL, Python e Excel para análise de dados, automação de tarefas e melhoria de processos no dia a dia, Java e integração de sistemas com hardware, aplicando princípios de programação orientada a objetos e boas práticas de código para construir soluções eficientes e funcionais.
+Aplicação de Python, Excel e ferramentas de banco de dados para análise de informações, automação de tarefas e resolução de problemas, com foco na redução de atividades manuais e na eficiência dos processos.
 
----
+## Tecnologias
 
-## Stacks usadas
+**Front end**
 
-<p align="left">
-  <div align="center">
-  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="SQL" title="SQL Developer" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-  <img alt="Kali Linux" title="Kali Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
-  <img alt="Angular" title="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
-  <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
-</div>
+<p>
+  <img alt="Angular" title="Angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img alt="React" title="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="HTML5" title="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
 
----
+**Back end, automação e dados**
 
-## Contato
+<p>
+  <img alt="Java" title="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring" title="Spring Boot" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="Node.js" title="Node.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Python" title="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Microsoft SQL Server" title="Microsoft SQL Server / T-SQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+</p>
 
-- Email: contatolukasrocha@gmail.com
-- LinkedIn: [linkedin.com/in/lukasrocharr](https://www.linkedin.com/in/lukasrocharr)
+Contato
+
+- LinkedIn: https://www.linkedin.com/in/lukasrocharr
+- E-mail: contatolukasrocha@gmail.com
