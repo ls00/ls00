@@ -1,6 +1,6 @@
 # Lukas Rocha
 
-### Desenvolvedor Full Stack
+### dev full stack
 
 Desenvolvimento full stack com especialidade em back end, incluindo criação de APIs e sistemas que conectam aplicações, serviços e bancos de dados, desenvolvimento de interfaces web e integração entre componentes.
 
