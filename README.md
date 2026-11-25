@@ -2,7 +2,7 @@
 
 ### dev full stack
 
-Desenvolvimento full stack com especialidade em back end, incluindo criação de APIs e sistemas que conectam aplicações, serviços e bancos de dados, desenvolvimento de interfaces web e integração entre componentes.
+Desenvolvedor Full Stack com especialidade em back end, incluindo criação de APIs e sistemas que conectam aplicações, serviços e bancos de dados, desenvolvimento de interfaces web e integração entre componentes.
 
 Utilização de Java, Spring Boot, Node.js e SQL na implementação de serviços, e Angular, React, Next.js e TypeScript na construção de interfaces.
 
